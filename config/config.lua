@@ -38,11 +38,11 @@ Config.Assets = {
         trailer     = 'trailerlogs', -- pátio de empilhamento (alvo dos pallets)
     },
     props = {
-        chainsaw = `prop_tool_consaw`,   -- prop de motosserra na mão (cosmético)
-        log      = `prop_log_01`,        -- tora cortada (reservado p/ uso futuro)
-        woodpile = `prop_woodpile_01a`,  -- fardo de toras / pallet de lumber
-        tree     = `prop_tree_pine_02`,  -- árvore em pé
-        stump    = `prop_tree_stump_01`, -- toco
+        chainsaw = 'prop_tool_consaw',   -- prop de motosserra na mão (cosmético)
+        log      = 'prop_log_01',        -- tora cortada (reservado p/ uso futuro)
+        woodpile = 'prop_woodpile_01a',  -- fardo de toras / pallet de lumber
+        tree     = 'prop_tree_pine_02',  -- árvore em pé
+        stump    = 'prop_tree_stump_01', -- toco
     },
     cutAnim = { dict = 'amb@world_human_hammering@male@base', clip = 'base' },
 }
